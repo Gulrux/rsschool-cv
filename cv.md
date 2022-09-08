@@ -1,37 +1,31 @@
-# Full Name: Gulrukh Shakirova
-## Phone: +998974434544 
-## Email: gulshak55@mail.ru
+# Gulrukh Shakirova
+### Phone: +998974434544 
+### Email: gulshak55@mail.ru
+### Resume: [hh.uz](https://tashkent.hh.uz/applicant/resumes/view?resume=d01722ecff095892c30039ed1f3148796e3075) 
+# About Me
+Interested in using technology in business process to faster business process. Currently working in Cambridge International University in Tashkent as a Canvas Admin and IT Support. Because of hard working and IT background, I am promotred from Students Support Coordinator to Canvas Admin and IT Support. Interested in teaching and had expirience in Teaching.
+I started this course to master Front End Development and continue my career path in Web Devepopment, as I am really into this sphere. additionally, it gives me to be flexiable and work online.
+# Education 
+In 2021 graduated WIUT with second class diploma. I studied in BIS faculty and learned many spheares of IT as System Analysis and Design, Network Operations, Database Management, Game Development, and Web Development. 
+* Skills
+   - HTML
+   - CSS
+   - Scss
+   - Bootstrap 4
+   - c#
+   - IELTS 6.5
+   - Russian 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
-
+### JavaScript
+```
 function multiply(a, b){
  return a * b 
 }
+```
 
+### c#
+
+```
  using System;
   public static class Paper
   {
@@ -47,4 +41,4 @@ function multiply(a, b){
       
     }
   }
-
+```
