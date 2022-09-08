@@ -7,23 +7,27 @@ Interested in using technology in business to faster business process. Currently
 I started this course to master Front End Development and continue my career path in Web Devepopment, as I am really into this sphere. additionally, it gives me to be flexiable and work online.
 # Education 
 In 2021 graduated WIUT with second class diploma. I studied in BIS faculty and learned many spheares of IT as System Analysis and Design, Network Operations, Database Management, Game Development, and Web Development. 
+Additionaly I learned HTML and CSS in PDP academy in Tashkent. Now I started learning JS.
 * Skills
    - HTML
    - CSS
    - Scss
    - Bootstrap 4
    - c#
-   - IELTS 6.5
-   - Russian 
 
-### JavaScript
+* Languages
+   - IELTS 6.5
+   - Russian
+
+# Code Examples
+#### JavaScript
 ```
 function multiply(a, b){
  return a * b 
 }
 ```
 
-### c#
+#### c#
 
 ```
  using System;
